@@ -1,6 +1,6 @@
-### Hello
+Hello, friend. Hello, friend? That's lame...
 
-Things I enjoy.
+Still, things I enjoy:
 - :penguin: - Linux
 - :books: - Math
 - 🇩🇪 - Deutsch

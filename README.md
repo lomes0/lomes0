@@ -1,6 +1,6 @@
-### Hello Friend
+### Hello
 
-Here are some random bolts of things I enjoy.
+Things I enjoy.
 - :penguin: - Linux
 - :books: - Math
 - 🇩🇪 - Deutsch
